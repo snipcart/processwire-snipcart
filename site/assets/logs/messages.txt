@@ -1,0 +1,7 @@
+2016-10-10 15:22:21	admin	http://localhost/admin/setup/template/removeFields	Deleted field "summary" data in 1 row(s) from 1 page(s). [page-by-page]
+2016-10-10 15:45:28	admin	http://localhost/admin/setup/template/removeFields	Deleted field "summary" data in 0 row(s) from 0 page(s). [page-by-page]
+2016-10-10 15:45:28	admin	http://localhost/admin/setup/template/removeFields	Deleted field "sidebar" data in 0 row(s) from 0 page(s). [page-by-page]
+2016-10-10 15:45:28	admin	http://localhost/admin/setup/template/removeFields	Deleted field "images" data in 0 row(s) from 0 page(s). [page-by-page]
+2016-10-12 15:59:47	admin	http://processwire-snipcart.herokuapp.com/admin/setup/template/removeFields	Deleted field "Snipcart_API_Key" data in 1 row(s) from 1 page(s). [page-by-page]
+2016-10-12 16:00:12	admin	http://processwire-snipcart.herokuapp.com/admin/setup/template/removeFields	Deleted field "sidebar" data in 0 row(s) from 0 page(s). [page-by-page]
+2016-10-12 16:00:12	admin	http://processwire-snipcart.herokuapp.com/admin/setup/template/removeFields	Deleted field "Snipcart_API_Key" data in 0 row(s) from 0 page(s). [page-by-page]

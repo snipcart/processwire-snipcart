@@ -1,0 +1,270 @@
+
+.snipcart-checkout:hover{
+  color: #FFF59D;
+  text-decoration: underline;
+}
+
+.snipcart-add-item{
+  background-color: #FFF59D;
+  font-size: 18px;
+  color: black;
+  border: 0px;
+  border-radius: 3%;
+}
+
+.snipcart-add-item:hover{
+  box-shadow: 0px 3px 5px #29B6F6;
+}
+
+h3 {
+  align-self: center;
+  color: white;
+}
+
+.snipcart-add-item:active{
+  box-shadow: 0 0 0 0;
+}
+
+.product-description{
+  width: 400px;
+  padding: 25px;
+  margin: 25px;
+  background-color: #FFF59D;
+  font-size: 20px;
+}
+
+.product-details{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+#content{
+  display: flex;
+  flex-direction: column;
+}
+
+#footer{
+  padding-top: 10em;
+  margin: auto;
+}
+
+h1 {
+  color: white;
+}
+
+.products{
+  display: flex;
+  align-self: center;
+  flex-direction: column;
+}
+
+.product{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: center;
+  justify-content: center;
+  padding: 35px;
+}
+
+.product:hover{
+  background-color: #D500F9;
+}
+
+a:visited{
+  text-decoration: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+button{
+  font-family: $base-font-family;
+  font-size: 17px;
+}
+
+/**
+ * Basic styling
+ */
+body {
+    display: flex;
+    font-size: 22px;
+    flex-direction: column;
+    background-color: #F44336;
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    font-weight: 300;
+    color: $text-color;
+    background-color: $background-color;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+
+
+/**
+ * Images
+ */
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+
+
+/**
+ * Figures
+ */
+figure > img {
+    display: block;
+}
+
+figcaption {
+    font-size: $small-font-size;
+}
+
+
+
+/**
+ * Lists
+ */
+ul, ol {
+    margin-left: $spacing-unit;
+}
+
+li {
+    > ul,
+    > ol {
+         margin-bottom: 0;
+    }
+}
+
+
+
+/**
+ * Headings
+ */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+}
+
+
+
+
+
+/**
+ * Blockquotes
+ */
+blockquote {
+    color: $grey-color;
+    border-left: 4px solid $grey-color-light;
+    padding-left: $spacing-unit / 2;
+    font-size: 18px;
+    letter-spacing: -1px;
+    font-style: italic;
+
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
+
+
+
+/**
+ * Code formatting
+ */
+pre,
+code {
+    font-size: 15px;
+    border: 1px solid $grey-color-light;
+    border-radius: 3px;
+    background-color: #eef;
+}
+
+code {
+    padding: 1px 5px;
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: scroll;
+
+    > code {
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+
+
+
+/**
+ * Wrapper
+ */
+.wrapper {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
+
+/**
+ * Clearfix
+ */
+%clearfix {
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+/**
+ * Icons
+ */
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        path {
+            fill: $grey-color;
+        }
+    }
+}
+
+.thumbnail {
+  width: 200px;
+}
+
+
+.site-title {
+    font-size: 36px;
+    line-height: 56px;
+    margin: auto;
+    align-self: center;
+    style: bold;
+    letter-spacing: -1px;
+    padding: 20px 20px;
+    margin-bottom: 0;
+}
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help

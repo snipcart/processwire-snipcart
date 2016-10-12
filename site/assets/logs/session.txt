@@ -1,0 +1,16 @@
+2016-10-09 18:20:38	admin	http://localhost/admin/login/	Successful login for 'admin'
+2016-10-10 15:08:18	guest	http://localhost/admin/login/	Error: Failed login for 'max' - Unknown user: max
+2016-10-10 15:08:26	admin	http://localhost/admin/login/	Successful login for 'admin'
+2016-10-11 13:34:13	admin	http://localhost/admin/login/	Successful login for 'admin'
+2016-10-12 15:59:03	admin	http://processwire-snipcart.herokuapp.com/admin/login/	Successful login for 'admin'
+2016-10-12 16:18:35	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2016-10-12 16:18:45	admin	http://processwire-snipcart.herokuapp.com/admin/login/	Successful login for 'admin'
+2016-10-12 16:26:34	admin	http://processwire-snipcart.herokuapp.com/admin/login/	Successful login for 'admin'
+2016-10-12 16:31:07	admin	http://processwire-snipcart.herokuapp.com/admin/login/	Successful login for 'admin'
+2016-10-12 16:55:20	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2016-10-12 16:55:34	admin	http://processwire-snipcart.herokuapp.com/admin/login/	Successful login for 'admin'
+2016-10-12 16:55:42	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 0.0.0.0)
+2016-10-12 16:55:46	admin	http://processwire-snipcart.herokuapp.com/admin/login/	Successful login for 'admin'
+2016-10-12 16:56:58	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2016-10-12 16:57:37	admin	http://processwire-snipcart.herokuapp.com/admin/login/?id=1	Successful login for 'admin'
+2016-10-12 16:58:47	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
